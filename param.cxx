@@ -12,8 +12,8 @@
 #include <iostream>
 #include <cstdio>
 #include <math.h>
-#include "tvector.h"
-#include "tmatrix.h"
+#include "/home/grader/hutchens330/labs/param/tvector.h"
+#include "/home/grader/hutchens330/labs/param/tmatrix.h"
 
 #define jensen(expr, index, start, stop, out) {\
    double temp = 0;\
